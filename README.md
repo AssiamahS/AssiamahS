@@ -35,6 +35,8 @@ Frontend Developer ♦ Web3/Crypto Enthusiast ♦ Digital Marketing
 - **Go**
 - **Rust**
 - **SQL**
+- **Figma** ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+
 
 ## Pinned
 ### [PillarLabs](https://github.com/AssiamahS/PillarLabs)
