@@ -1,6 +1,5 @@
 ![View AssiamahS's full-sized avatar](https://avatars.githubusercontent.com/u/your-username?s=460&v=4)
-# [Your Name]
-**AssiamahS**
+# **AssiamahS**
 
 Frontend Developer ♦ Web3/Crypto Enthusiast ♦ Digital Marketing
 
@@ -37,6 +36,17 @@ Frontend Developer ♦ Web3/Crypto Enthusiast ♦ Digital Marketing
 - **SQL**
 - **Figma** ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ## Pinned
 ### [PillarLabs](https://github.com/AssiamahS/PillarLabs)
