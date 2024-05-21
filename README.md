@@ -1,113 +1,76 @@
-![View AssiamahS's full-sized avatar](https://avatars.githubusercontent.com/u/your-username?s=460&v=4)
-# **AssiamahS**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-Frontend Developer ♦ Web3/Crypto Enthusiast ♦ Digital Marketing
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-1 follower · 2 following
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-## Achievements
-- Achievement: Pull Sharkx2
-- Achievement: YOLO
+<br/>
 
-## Highlights
-- PRO
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-## Hi 👋, I'm [Your Name]
-📍 I'm Based in [Your Location]
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-🖥️ See my Portfolio at [Portfolio](your-portfolio-url)
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-💭 I’m currently learning [Your Current Learning Topic]
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## Languages and Skills
-- **Python**
-- **JavaScript**
-- **Java**
-- **C++**
-- **HTML & CSS**
-- **Ruby**
-- **Go**
-- **Rust**
-- **SQL**
-- **Figma** ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+<br/>
+<hr/>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## Pinned
-### [PillarLabs](https://github.com/AssiamahS/PillarLabs)
-JavaScript
+<hr/>
 
-### [vinchyExclusives](https://github.com/AssiamahS/vinchyExclusives)
-Custom clothing brand
-- SCSS
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### [block-bank](https://github.com/AssiamahS/block-bank)
-Real time cryptocurrency exchange
-- SCSS
+<br/><br/>
 
-### [love2communicate](https://github.com/AssiamahS/love2communicate)
-Speech Therapist Website
-- SCSS
+<hr/>
 
-### [dream_stay](https://github.com/AssiamahS/dream_stay)
-Home rental company
-- JavaScript
+<br/>
 
-## Contributions
-797 contributions in the last year
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-### Contribution Graph
-| Day of Week | May  | June | July | August | September | October | November | December | January | February | March | April | May  |
-|-------------|------|------|------|--------|-----------|---------|----------|----------|---------|----------|-------|-------|------|
-| Sunday      |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Monday      |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Tuesday     |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Wednesday   |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Thursday    |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Friday      |      |      |      |        |           |         |          |          |         |          |       |       |      |
-| Saturday    |      |      |      |        |           |         |          |          |         |          |       |       |      |
-
-Learn how we count contributions
-- Less: No contributions.
-- Low: Low contributions.
-- Medium-low: Medium-low contributions.
-- Medium-high: Medium-high contributions.
-- High: High contributions.
-
-## Activity Overview
-Contributed to AssiamahS/vinchyExclusives, AssiamahS/block-bank, AssiamahS/love2communicate, and 28 other repositories
-- 2% Code review
-- 7% Issues
-- 91% Pull requests
-- Commits
-
-### Contribution Activity
-**May 2024**
-- [Text-Editor](https://github.com/AssiamahS/Text-Editor)
-  - JavaScript
-  - This contribution was made on May 13
-- [Social-App](https://github.com/AssiamahS/Social-App)
-  - JavaScript
-  - This contribution was made on May 9
-- [Regex-Tutorial](https://github.com/AssiamahS/Regex-Tutorial)
-  - This contribution was made on May 9
-- [Tech_Blog](https://github.com/AssiamahS/Tech_Blog)
-  - JavaScript
-  - This contribution was made on May 3
-
-Seeing something unexpected? Take a look at the [GitHub profile guide](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile).
+<br/>
