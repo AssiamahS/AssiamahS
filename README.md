@@ -34,7 +34,7 @@
 <hr/>
 
 <h2 align="center"> What We've 
- <img align="center" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f30d.gif">Learned-UnLearned-ReLearned </h2>
+ <img align="center" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f30d.gif">Learned-</h2>UnLearned</h2>-ReLearned </h2>
 
 <br/>
 
