@@ -16,17 +16,6 @@
 
 <br/>
 
-<div align="center">
-    🌱 Current Learning Achievement  **MangoDB, ExpressJS, NodeJS, React**
-    <br/>
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-    </br>
-    ⚡ Sly Fact: **The 100+ year QWERTY layout was originally designed for a mechanical typewriter with the goal of reducing the frequency of the key mechanisms from jamming during typing.**
-    <br/>
-    🔭  Currently working on a **Marketing Company **
-    <br/>
-</div>
 
 <br/>
 
