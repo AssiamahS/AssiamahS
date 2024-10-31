@@ -78,5 +78,10 @@
         <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee" />
     </a>
 </div>
-
+<div>
+<h3 align="center"> Life Philosiphy: Always be Adventurous. Never Stop learning, Never Stop Growing.
+Favourite Problem: ∫({ x(⊼+49) − 1)} 15/7)(⊼ 2 (x⊼ + 7)) dx
+Favourite Languages: Python, Javascript, PHP
+Favourite Equation: x2 - x + 1 </h3>
+</div>
 <br/>
