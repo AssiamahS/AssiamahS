@@ -81,7 +81,7 @@
 <div>
 <h3 align="center"> Life Philosiphy: There is a truth, but there are 8 billion different ways of perceiving that truth. </p>
 <p>Favourite Problem: ∫({ x(⊼+49) − 1)} 15/7)(⊼ 2 (x⊼ + 7)) dx </p>
-<p>Favourite Languages: Python, Javascript, Python </p>
+<p>Favourite Languages: Python, Javascript, Swift </p>
 <p>Favourite Equation: x2 - x + 1 </p>
 </h3>
 </div>
